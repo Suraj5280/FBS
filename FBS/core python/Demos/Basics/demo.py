@@ -1,2 +1,0 @@
-print('suraj')
-print('python')
