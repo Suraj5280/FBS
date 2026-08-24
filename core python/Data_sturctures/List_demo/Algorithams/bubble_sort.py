@@ -4,7 +4,7 @@ def bubbleSort(li):
         for j in range(0, size -i):
             if(li[j]>li[j+1]):
                 li[j],li[j+1] = li[j+1],li[j]
-                print(li)          #to see the swapping
+                #print(li)          #to see the swapping
 
 
 li = [60,50,40,30,20,10]
