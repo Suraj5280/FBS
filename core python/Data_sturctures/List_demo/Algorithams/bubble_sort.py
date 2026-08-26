@@ -10,4 +10,4 @@ def bubbleSort(li):
 li = [60,50,40,30,20,10]
 print('Before sorting',li)
 bubbleSort(li)
-print('After sorting:',li)
+print('After sorting:',li)                                                                                  
