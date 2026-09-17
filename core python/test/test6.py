@@ -51,3 +51,5 @@ else:
     print("Invalid choice")
     exit()
 print("Total Toll:", v.toll(person))
+
+
